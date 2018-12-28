@@ -1,0 +1,177 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    width: 90%;
+    height: 50px;
+    margin: 0 auto;
+}
+header a:hover{
+    background: transparent;
+    color:rgb(98, 187, 223);
+
+}
+header nav a{
+    
+    float: right;
+    padding: 13px 10px 5px 15px;
+    color: black;
+    text-decoration: none;  
+    
+} 
+.home h1{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 300px;
+    font-size: 60px;
+    font-style: italic;
+    color:white;
+ 
+}
+.home{
+    background: url("../images/food3.jpeg");
+    height: 700px;
+    margin: 0 auto;
+} 
+button{
+    width: 120px;
+    height: 30px;
+    margin-left: 600px;
+    background-color: rgb(98, 187, 223);
+    border: 0px;
+    font-style: italic;
+    border-radius: 10px;
+}  
+button:hover{
+    color: aliceblue;
+    
+}
+.sub img{
+    
+    width:27%;
+    height: 150px;
+    float: left;
+    margin: 100px 42px 0px 42px;
+     
+}
+.heading{
+    width:27%;
+    height: 150px;
+    float: left;
+    margin: 0px 42px 0px 42px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+.btn{
+    
+    background-color:rgb(98, 187, 223);
+    border-color: black;
+    margin: 0px 42px 0px 42px;
+}
+#jill{
+    clear: both;
+}
+#cart a{
+    clear: both;
+    padding: 45px 92px 5px 107px;
+    color: black;
+    text-decoration: none;
+    margin-top: 5px; 
+}
+#cart a:hover{
+    color: rgb(98, 187, 223);   
+}
+#abt{
+    background-color: rgba(0, 0, 0, 0.842);
+    height: 180px;
+    width: 100%;
+    margin-top: 30px;
+}
+#abt h2{
+    clear: both;
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    padding-top: 40px;
+}
+#abt p{
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+}
+#rd{
+    clear: both;
+    background-color: transparent;
+    border-color: solid black 2px;
+    color: white;
+    border-color: solid whitesmoke 1px;
+}
+#rd:hover{
+    color: black;
+}
+#menu{
+    width: 100%;
+    height: 470px;
+    
+}
+#bar a{
+    clear: both;
+    padding: 45px 10px 5px 113px;
+    color: black;
+    text-decoration: none;
+    margin: 0 auto;
+    text-align: center;
+}
+#bar a:hover{
+    text-decoration-style: unset;
+    color: rgb(98, 187, 223);
+}
+#style p{
+    width:2px;
+    word-wrap: break-word;
+    margin-left: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    word-spacing: 2px;
+}
+.list{
+   float: left;
+   margin: 10px 15px 20px 62px;
+}
+#services{
+    background-color: black;
+    height: 180px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+#hd p{
+    color: white;
+    text-align: center;
+    word-spacing: 200px;
+    
+}
+#hd a{
+    color: white;
+    line-height: 1;
+    text-align: center;  
+}
+footer{
+    padding: 20px;
+    background-color:rgb(48, 228, 48);
+    color: #ffffff;
+    text-align: center;
+    height: 0px;
+}
+footer p{
+    color: black;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+
+
